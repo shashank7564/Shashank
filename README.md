@@ -7,6 +7,8 @@ Hii, I am Shashank Shekhar.
 
 🔍 Skilled in SQL Database Management
 
+💼 Experienced in PowerBI
+
 🏅 Certified Salesforce Administrator and Cisco Certified Network Associate (CCNA)
 
 Passionate about leveraging technology to solve real-world problems, I am a final year Computer Science student specializing in Java programming and web development. Throughout my academic journey at LNCT College Bhopal, I have developed my skills in Java, HTML, CSS, OOPs, and DBMS, with a strong focus on SQL database management. My commitment to continuous learning is evidenced by my certifications in Salesforce administration and CCNA, empowering me to tackle diverse challenges in the realms of software development and network administration.
