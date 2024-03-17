@@ -1,7 +1,7 @@
 
 Hii, I am Shashank Shekhar.
 
-🎓 Final Year CSE Student at LNCT College Bhopal (Batch 2020-2024)
+🎓 Final Year B.Tech CSE Student at LNCT College Bhopal (Batch 2020-2024)
 
 🖥️ Proficient in Java, HTML, CSS, Object-Oriented Programming (OOPs), and Database Management Systems (DBMS)
 
